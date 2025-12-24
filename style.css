@@ -1,4 +1,4 @@
-/* Reset اولیه */
+
 * {
   margin: 0;
   padding: 0;
@@ -13,7 +13,7 @@ body {
   padding: 20px;
 }
 
-/* هدر */
+
 header {
   text-align: center;
   padding: 40px 20px 30px 20px;
@@ -41,7 +41,7 @@ header p {
   color: #6c757d;
 }
 
-/* بخش‌های اصلی */
+
 main {
   max-width: 900px;
   margin: 0 auto;
@@ -83,7 +83,7 @@ a:hover {
   text-decoration: underline;
 }
 
-/* فوتر */
+
 footer {
   text-align: center;
   margin-top: 40px;
